@@ -1,3 +1,3 @@
 # dentist-helper
 
-<p>Esta aplicação tem como objetivo ajudar o dentista a checar informações sobre a posologia e sintomas de alterações da popla dentária.<p/>
+<p>This application aims to help the dentist check information about the dosage and symptoms of changes in the dental pulp.<p/>
